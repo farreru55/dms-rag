@@ -1,0 +1,74 @@
+## 5) Struktur akademik : Fakultas dan Program Studi
+
+### Fakultas Teknologi dan Informatika (FTI)
+Link: https://www.dinamika.ac.id/fakultas-teknologi-dan-informatika/
+
+#### S1 Sistem Informasi (https://www.dinamika.ac.id/fakultas-teknologi-dan-informatika/s1-sistem-informasi/)
+- **Deskripsi :** Program Studi S1 Sistem Informasi menghasilkan lulusan yang memiliki kemampuan analisis, perancangan, implementasi dan pengelolaan sistem informasi berbasis Big Data untuk kebutuhan bisnis dan pengambilan keputusan.
+- **Gelar :** Sarjana Komputer (S.Kom.)
+- **Akreditasi :** Unggul
+- **Peminatan :** Business Digital; Data Science; Cyber Security
+- **Mata Kuliah Pokok :** Basis Data; Pemrograman Web dan Mobile; Big Data; Business Intelligence; Data Mining; Manajemen Proyek SI; UI/UX Design; Cyber Security; Analisis & Perancangan SI; Tata Kelola Teknologi Informasi; Digital Marketing.
+- **Prospek Karir :** Data; System; Business Analyst; IT Consultant/Engineer; ERP Consultant/Developer; Programmer/Software Developer; UI/UX Designer; Security Analyst; IT Project Manager; Database System Developer/Designer; Full Stack Developer.
+- **Sertifikasi Internasional :** Microsoft Certified Technology Specialist; ORACLE Certified Associate.
+
+#### S1 Teknik Komputer (https://www.dinamika.ac.id/fakultas-teknologi-dan-informatika/s1-teknik-komputer/)
+- **Deskripsi :** Menghasilkan lulusan yang mampu merancang dan menganalisis sistem berbasis komputer dan jaringan untuk sistem tertanam, perangkat IoT, perangkat cerdas, atau otomasi.
+- **Gelar :** Sarjana Teknik (S.T.)
+- **Akreditasi :** Baik Sekali
+- **Peminatan :** IOT Embedded System; AI & Robotic
+- **Mata Kuliah Pokok :** Sistem Tertanam; Device IoT; SCADA; Perancangan Sistem IoT; Penginderaan Elektronika; Komunikasi Nirkabel; Programmable Logic Controller; Jaringan Komputer; Sistem Cerdas.
+- **Prospek Karir :** Embedded System Engineer; IoT Engineer; Network Analyst; Automation Integrator; Machine Learning Engineer; Computer Network Architect; System Maintenance Manager.
+- **Sertifikasi Internasional :** MikroTik MTCNA; CCNA CISCO.
+
+#### D3 Sistem Informasi (https://www.dinamika.ac.id/fakultas-teknologi-dan-informatika/diii-sistem-informasi/)
+- **Deskripsi :** Menghasilkan lulusan Ahli Madya Komputer di bidang pengembangan sistem informasi berbasis mobile dengan keterampilan technopreneur.
+- **Gelar :** Ahli Madya Komputer (A.Md.Kom.)
+- **Akreditasi :** Baik Sekali
+- **Peminatan :** Tidak ada
+- **Mata Kuliah Pokok :** Pemrograman Basis Data; Pemrograman Berorientasi Obyek; Desain UI/UX; Jaringan Komputer; Desain dan Pemrograman Web; Pemrograman Mobile; Information System Developer; Cyber Security; Network Technical Support Officer.
+- **Prospek Karir :** Mobile Application Developer; Web Application Developer; Database Designer; Information System Developer; Network Technical Support Officer; Cyber Security.
+- **Sertifikasi Internasional :** Microsoft Technology Associate; ATC Certification; ORACLE Certified Associate.
+
+### Fakultas Ekonomi dan Bisnis (FEB)
+Link: https://www.dinamika.ac.id/fakultas-ekonomi-dan-bisnis/
+
+#### S1 Akuntansi (https://www.dinamika.ac.id/fakultas-ekonomi-dan-bisnis/s1-akuntansi/)
+- **Deskripsi :** Program Studi S1 Akuntansi mencetak lulusan berupa akuntan yang mampu mengimplementasikan ilmu akuntansi dipadukan dengan teknologi informasi.
+- **Gelar :** Sarjana Akuntansi (S.Ak.)
+- **Akreditasi :** Baik Sekali
+- **Peminatan :** Tidak ada
+- **Mata Kuliah Pokok :** (daftar mata kuliah seperti dalam sumber)
+- **Prospek Karir :** Public Accountant; Financial Accountant; Financial Analyst; System Analyst; Information System Auditor; Internal/External Auditor; Tax Consultant/Auditor; Financial and Business Consultant; Finance Manager.
+- **Sertifikasi Internasional :** Tidak Ada
+
+#### S1 Manajemen (https://www.dinamika.ac.id/fakultas-ekonomi-dan-bisnis/s1-manajemen/)
+- **Deskripsi :** Program Studi S1 Manajemen menghasilkan lulusan entrepreneur kreatif dan inovatif dengan kemampuan manajerial dan IT untuk industri kreatif.
+- **Gelar :** Sarjana Manajemen (S.M.)
+- **Akreditasi :** Baik Sekali
+- **Peminatan :** Entrepreneurship; Managerialship
+- **Mata Kuliah Pokok :** Entrepreneur; Business Plan; Digital Marketing; MICE; Management Information System; Database System; Artificial Intelligent in Business; International Business; Business Ethics; Integrated Marketing Communication; E-Business; Social Media Marketing; Socio-Technopreneur.
+- **Prospek Karir :** Entrepreneur; Digital Business Consultant; Digital Business Analyst; Digital Business Developer; Operational Manager; Marketing Manager; Supervisor; Tourism Business Development; Tourism Business Consultant.
+- **Sertifikasi Internasional :** Tidak Ada
+
+### Fakultas Desain dan Industri Kreatif (FDIK)
+Link: https://www.dinamika.ac.id/fakultas-desain-dan-industri-kreatif/
+
+#### S1 Desain Komunikasi Visual (https://www.dinamika.ac.id/fakultas-desain-dan-industri-kreatif/s1-desain-komunikasi-visual/)
+- **Deskripsi :** Menghasilkan lulusan yang mampu menganalisis, merancang dan menerapkan komunikasi visual untuk brand identity, brand communication dan campaign.
+- **Gelar :** Sarjana Desain (S.Ds)
+- **Akreditasi :** Unggul
+- **Peminatan :** Tidak ada
+- **Mata Kuliah Pokok :** Desain Komunikasi Visual; Desain Logo dan Identitas Visual; Riset Media dan Branding; Destination Branding; Kampanye Sosial; Ilustrasi Digital; Fotografi; Videografi; Tata Animasi Sel; Animasi 3D; Image Design and Desktop Publishing; Desktop Publishing; Audio Visual Periklanan; Copywriting; Desain UI/UX; Game Design; Environmental Graphic Design.
+- **Prospek Karir :** Creative Director; Art Director; Graphic Designer; Brand Consultant; Advertising Designer; UI & UX Designer; Advertisement Researcher; Copywriter; Illustrator; Media Planner; Game Designer; Photographer; Videographer; Animator.
+- **Sertifikasi Internasional :** Adobe Certified Professional
+
+#### D4 Produksi Film dan Televisi (https://www.dinamika.ac.id/fakultas-desain-dan-industri-kreatif/div-produksi-film-dan-televisi/)
+- **Deskripsi :** DIV Produksi Film dan Televisi berkonsentrasi pada film, animasi dan pertelevisian; menghasilkan lulusan yang mampu membuat film fiksi, dokumenter, iklan, animasi, serial, program talk show, video klip, dll.
+- **Gelar :** Sarjana Terapan Seni (S.Tr.Sn.)
+- **Akreditasi :** Baik Sekali
+- **Peminatan :** Film Pendek dan Animasi; Video Iklan dan Konten Kreatif
+- **Mata Kuliah Pokok :** Penulisan Naskah & Skenario; Penyutradaraan; Musik Film; Tata Suara; Editing; Pemodelan 3D; Animasi 3D; Special Effect; Tata Cahaya; Tata Rias dan Busana; Sinematografi; Talk Show; Video Klip dan Iklan; Studio Televisi; Broadcasting; CGI.
+- **Prospek Karir :** Producer; Film Director; Scriptwriter; Director of Photography (DOP); Sound Designer; Editor; Lighting Designer; Make-Up Artist (MUA); Animator; Creative Entrepreneur; Graphic Designer; Broadcaster; Content Creator.
+- **Sertifikasi Internasional :** Adobe Certified Professional
+- **Informasi Kontak :** Ketua Program Studi = Dr. Muh. Bahruddin, S.Sos., M.Med.Kom.
