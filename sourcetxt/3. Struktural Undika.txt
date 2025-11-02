@@ -1,0 +1,36 @@
+## 3) Struktural
+- **Pimpinan (https://www.dinamika.ac.id/pimpinan/) :**
+  - Prof. Dr. Budi Jatmiko, M.Pd. — Rektor
+  - Dr. Anjik Sukmaaji, S.Kom., M.Eng. — Wakil Rektor 1 (Akademik, Kemahasiswaan & Alumni)
+  - Prof. Dr. M.J. Dewiyani Sunarto — Wakil Rektor 2 (Sumber Daya)
+  - Prof. Dr. Bambang Hariadi, M.Pd. — Wakil Rektor 3 (Riset, Kewirausahaan, Kerja Sama)
+
+- **Dekanat (https://www.dinamika.ac.id/dekanat/) :**
+  - Tan Amelia S.Kom., M.MT. — Dekan Fakultas Teknologi dan Informatika
+  - Dr. Muh. Bahruddin, S.Sos., M.Med.Kom — Dekan Fakultas Desain dan Industri Kreatif
+  - Arifin Puji Widodo, S.E., MSA — Dekan Fakultas Ekonomi dan Bisnis
+
+- **Ketua Program Studi / Kaprodi (https://www.dinamika.ac.id/kaprodi/) :**
+  - Endra Rahmawati, M.Kom. — Ketua Prodi S1 Sistem Informasi
+  - Dr. Ira Puspasari, S.Si., M.T. — Ketua Prodi S1 Teknik Komputer
+  - Nunuk Wahyuningtyas, M.Kom — Ketua Prodi D3 Sistem Informasi
+  - Dhika Yuan Yurisma, M.Ds. — Ketua Prodi S1 Desain Komunikasi Visual
+  - Karsam, MA., Ph.D. — Ketua Prodi D4 Produksi Film dan Televisi
+  - Dr. Sri Suhandiah, S.S., M.M. — Ketua Prodi S1 Manajemen
+  - Tony Soebijono, S.E., S.H., M.Ak. — Ketua Prodi S1 Akuntansi
+
+- **Kepala Bagian (https://www.dinamika.ac.id/kepala-bagian/) :**
+  - Eva Pramita, S.Kom. — Kepala Bagian Administrasi Akademik dan Kemahasiswaan (AAK)
+  - Indra Gunawan, S.T. — Kepala Bagian Administrasi Umum (AU)
+  - Yesica Florensia, S.E. — Kepala Bagian Keuangan
+  - M. Risa Fahmi, S.Kom., M.Pd. — Kepala Bagian Kemahasiswaan (KMHS)
+  - Vivine Nurcahyawati, M.Kom. — Kepala Pusat Penelitian dan Pengabdian Kepada Masyarakat (P3KM)
+  - Ir. Hardman Budiardjo, M.Med.Kom., MOS. — Kepala Pusat Pengawasan dan Penjaminan Mutu (PPM)
+  - Deasy Kumalawati, S.Pd., M.A. — Kepala Bagian Perpustakaan
+  - Ayouvi Poerna Wardhanie, S.M.B., M.M. — Kepala Pusat Kerja Sama (PKS)
+  - Pantjawati Sudarmaningtyas, S.Kom., M.Eng. — Kepala Pusat Pengembangan Bisnis (P2B)
+  - Wigananda Firdaus Putra Aditya, S.Kom. — Kepala Pusat Layanan Karir dan Alumni (PLKA)
+  - Erwin Sutomo, S.Kom., M.Eng. — Kepala Bagian Pengembangan dan Penerapan Teknologi Informasi (PPTI)
+  - Sri Hariani Eko Wulandari, S.Kom., M.MT. — Kepala Bagian Public Relations & Marketing
+  - Oktaviani, S.E., M.M. — Kepala Bagian Kepegawaian
+  - Dr. Muhamad Basyrul Muvid, M.Pd. — Kepala Pusat Pengembangan Pendidikan & Aktivitas Instruksional (P3AI)
