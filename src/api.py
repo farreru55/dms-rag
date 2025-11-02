@@ -1,21 +1,33 @@
-# api.py
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from pathlib import Path
 from chatbot import Chatbot # Mengimpor kelas Chatbot dari file Anda
+from fastapi.middleware.cors import CORSMiddleware
 import os
 
 app = FastAPI()
 
+origins = [
+    "*",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # Definisikan direktori dan parameter
 BASE_DIR = Path(__file__).parent.parent 
 DB_DIR = BASE_DIR / 'db'
-COLLECTION_NAME = os.getenv("RAG_COLLECTION_NAME", "mous") 
+COLLECTION_NAME = os.getenv("RAG_COLLECTION_NAME", "sourcetxt") 
 
 # Ambil konfigurasi LLM dari .env atau default
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "ollama")
 if LLM_PROVIDER == 'ollama':
-    LLM_MODEL = os.getenv("LLM_MODEL_OLLAMA", "gemma:2b")
+    LLM_MODEL = os.getenv("LLM_MODEL_OLLAMA", "gemma3:4b")
 else:
     # Atur default untuk provider lain jika diperlukan
     LLM_MODEL = os.getenv("LLM_MODEL_OPENROUTER", "meta-llama/llama-3-8b-instruct")
